@@ -16,4 +16,14 @@ Second, a consensus voting mechanism is established to govern the DAO by democra
 
 Third, the smart contract platform and voting procedure are deployed through an online interface and DAO platform. We seek to ensure that all transactions and financial data can be uploaded readily by the user to Skynet. This will enable users to have a secure way to view their financial information and have it be stored remotely. As such, we can provide investors with a decentralized method to invest in both securities and cryptocurrencies. Our goal is to enable users to retain the security that comes with pooling while having independence. Our competitive advantage is AlogNet, a neural network for predicting price changes in Algo. The demo for AlgoNet, the neural network for predicting Algo volatilities can be found on YouTube: https://www.youtube.com/watch?v=eUgWrrvDvc4.
 
+# References
+World Patent Publication No. 2019/126311 AI, Fast and partition-resilient blockchains (December 19, 2018).
+Manu Drijvers, et al., Pixel: Multi-signatures for consensus (2019).
+Jing Chen, Silvio Micali, Algorand (May 26, 2017).
+Yossi Gilad, et al., Algorand: Scaling Byzantine Agreements for Cryptocurrencies (2017).
+U.S. Patent Application Publication 2020/0304314 to Micali, Message-credentialed blockchains (September 24, 2020).
+U.S. Patent Application Publication 2019/0147438 to Micali, Distributed transaction propagation and verification system (May 16, 2019).
+Derek Leung, Vault: Fast Bootstrapping for the Algorand Cryptocurrency, MIT CSAIL (February 2019).
+
+
 
