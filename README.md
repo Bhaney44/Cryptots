@@ -13,3 +13,7 @@ Second, a consensus voting mechanism is established to govern the DAO by democra
 
 
 Third, the smart contract platform and voting procedure are deployed through an online interface and DAO platform. AlogNet is a neural network for predicting price changes in Algo. The demo for AlgoNet, the neural network for predicting Algo volatilities can be found on YouTube: https://www.youtube.com/watch?v=eUgWrrvDvc4.
+
+Finally, we seek to ensure that all transaction and financial data can be uploade readily by the user to Skynet. This will enable users to have a secure way to view their financial information and have it be stored remotely.
+
+We seek to provide investors with a decentralized method to invest in both securities and cryptocurrencies. Our goal is to enable users to retain the security that comes with pooling while having independence.
