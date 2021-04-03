@@ -18,11 +18,17 @@ Third, the smart contract platform and voting procedure are deployed through an 
 
 # References
 World Patent Publication No. 2019/126311 AI, Fast and partition-resilient blockchains (December 19, 2018).
+
 Manu Drijvers, et al., Pixel: Multi-signatures for consensus (2019).
+
 Jing Chen, Silvio Micali, Algorand (May 26, 2017).
+
 Yossi Gilad, et al., Algorand: Scaling Byzantine Agreements for Cryptocurrencies (2017).
+
 U.S. Patent Application Publication 2020/0304314 to Micali, Message-credentialed blockchains (September 24, 2020).
+
 U.S. Patent Application Publication 2019/0147438 to Micali, Distributed transaction propagation and verification system (May 16, 2019).
+
 Derek Leung, Vault: Fast Bootstrapping for the Algorand Cryptocurrency, MIT CSAIL (February 2019).
 
 
