@@ -2,7 +2,11 @@
 Cryptots is a team working on a project for entry in the MIT Bitcoin Expo Hackathon.
 
 # Autonomous Algorand
-Our project introduces Algorand Autonomous, a smart contract platform, voting mechanism, and a full-stack DAO deployment mechanism. Autonomous Algorand, centers around creating a self-updating DAO using smart contracts on the Algorand blockchain and a neural network to reduce both volatility and risk for investors. At the technical cconvergence of blockchain and artificial intelligence, Autonomous Algorand is a platform for technical and financial innovation. Our project website can be found here: https://siasky.net/EACWGajRopdmEDRX-63OkhipC_nLxgF7W8ZhnM8zZ3dT-Q/
+Our project introduces Algorand Autonomous, a smart contract platform, voting mechanism, and a full-stack DAO deployment mechanism. Autonomous Algorand, centers around creating a self-updating DAO using smart contracts on the Algorand blockchain and a neural network to reduce both volatility and risk for investors. At the technical cconvergence of blockchain and artificial intelligence, Autonomous Algorand is a platform for technical and financial innovation. 
+
+Our project website can be found here: https://siasky.net/EACWGajRopdmEDRX-63OkhipC_nLxgF7W8ZhnM8zZ3dT-Q/
+
+Our White Paper can be found here: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3819055
 
 # Problem
 Across blockchain networks, governance is a complex task with multiple stakeholders having several financial interests. The process by which decisions are made among these stakeholders is often centralized with certain authorities. For example, investment funds typically are controlled by a central authority. However, this decision-making framework limits openness for global community development and collaboration, as well as the personal autonomy of network participants.
