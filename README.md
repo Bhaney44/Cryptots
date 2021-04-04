@@ -4,7 +4,7 @@ Cryptots is a team working on a project for entry in the MIT Bitcoin Expo Hackat
 # Algorand Autonomous 
 Our project introduces Algorand Autonomous, a smart contract platform, voting mechanism, and a full-stack DAO deployment mechanism. Autonomous Algorand, centers around creating a self-updating DAO using smart contracts on the Algorand blockchain and a neural network to reduce both volatility and risk for investors. At the technical cconvergence of blockchain and artificial intelligence, Algorand Autonomous is a platform for technical and financial innovation. 
 
-Our project website can be found here: https://siasky.net/EABpEcWX4MYQRdGi4phWbf_ru349ZWE04y-sGbs6mwdzgg/
+Our project website can be found here: https://siasky.net/EABqm7X0di4TEXQiQIJnoRIOhdxxQUjD-JIyrj4iwcX6iA/
 
 Our White Paper can be found here: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3819055
 
