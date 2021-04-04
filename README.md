@@ -41,7 +41,6 @@ Derek Leung, Vault: Fast Bootstrapping for the Algorand Cryptocurrency, MIT CSAI
 
 Inspiration for design of SkyNet DB template
 https://github.com/kwypchlo/note-to-self
-https://mobirise.com/html-templates/
 
 
 
