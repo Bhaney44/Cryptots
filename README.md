@@ -1,5 +1,5 @@
 # Update
-This project was the top prize winner at the 2021 MIT Bitcoin Expo Hackathon. Award video: https://www.youtube.com/watch?v=Tst2kS89ei4&t=8s. We have since migrated our developed on-chain on the Algorand Network.
+This project was the top prize winner at the 2021 MIT Bitcoin Expo Hackathon. Award video: https://www.youtube.com/watch?v=Tst2kS89ei4&t=8s. We have since migrated our development to the Algorand Network.
 
 # Cryptots
 Cryptots is a team working on a project for entry in the MIT Bitcoin Expo Hackathon. 
